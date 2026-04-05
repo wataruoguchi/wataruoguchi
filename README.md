@@ -4,20 +4,6 @@
 
 Software Developer at [@recollectnet](https://twitter.com/recollectnet) / [@CivicTechYVR](https://twitter.com/CivicTechYVR) co-organizer / [Stop-COVID19-Nagano](https://github.com/Stop-COVID19-Nagano) contributor / Creator of [zubora.io](https://zubora.io)
 
-No fear to tackle on both frontend / backend work.
-
-## `$ ps -u wataruoguchi`
-
-### What I'm working on
-
-- [zubora.io](https://zubora.io) - a JavaScript test template generator.
-
-### What I'm learning / eager to learn
-
-- AST and TypeScript Compiler APIs
-- TypeScript
-- AWS. Some questions posted in [AWS Developer forums](https://forums.aws.amazon.com/thread.jspa?threadID=323564&tstart=0). Appreciate if you can answer!
-
 ## `$ vi wataruoguchi`
 
 Some of my blog posts:
